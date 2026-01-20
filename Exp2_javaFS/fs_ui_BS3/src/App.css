@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", sans-serif;
+  background-color: #f5f7fb;
+}
+
+.custom-navbar {
+  background: linear-gradient(90deg, #6a11cb, #2575fc);
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.nav-link {
+  color: white !important;
+  margin-left: 15px;
+  font-weight: 500;
+}
+
+.nav-link:hover {
+  color: #ffeb3b !important;
+}
+
+.page-text {
+  margin-top: 120px;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  color: #333;
+}
