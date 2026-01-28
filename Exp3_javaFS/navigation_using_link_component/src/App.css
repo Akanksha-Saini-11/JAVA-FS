@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+.app {
+  min-height: 100vh;
+  background-color: #f4f6f8;
+}
+
+.navbar {
+  background-color: #333;
+  padding: 15px;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+.link {
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
+}
+
+.link.active {
+  color: #ffcc00;
+  font-weight: bold;
+  border-bottom: 2px solid #ffcc00;
+}
+
+.content {
+  padding: 30px;
+}
+
+.page {
+  background-color: white;
+  padding: 30px 40px;
+  border-radius: 8px;
+  max-width: 500px;
+  width: 100%;
+  margin: 80px auto;   /* ✅ THIS is the key */
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
