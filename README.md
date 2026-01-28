@@ -6,3 +6,11 @@ exp 2(c)
 <img width="1621" height="808" alt="Screenshot 2026-01-27 103140" src="https://github.com/user-attachments/assets/78751e99-4bfa-4fc3-8389-2835b6f73773" />
 exp 2(d)
 <img width="1820" height="891" alt="Screenshot 2026-01-27 103130" src="https://github.com/user-attachments/assets/6a71708f-2de3-4e51-8244-171b434cf734" />
+Exp 3(a)
+<img width="1912" height="911" alt="Screenshot 2026-01-28 120933" src="https://github.com/user-attachments/assets/69bf1226-f73c-4db7-89fd-ebd39b838cfd" />
+Exp 3(b)
+<img width="1907" height="801" alt="Screenshot 2026-01-28 121257" src="https://github.com/user-attachments/assets/e0d5960c-caa0-42ff-a222-b70abb7d83ec" />
+Exp 3(c)
+<img width="1374" height="823" alt="Screenshot 2026-01-28 120951" src="https://github.com/user-attachments/assets/3f815bdb-bf2b-4cb0-a97f-5d369f3ba0cf" />
+
+
