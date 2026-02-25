@@ -17,4 +17,7 @@ Exp 5
 Exp 6.1
 <img width="1076" height="902" alt="image" src="https://github.com/user-attachments/assets/556cf2e7-ae66-40cd-9bb5-0efa9ea5eeb1" />
 <img width="847" height="912" alt="image" src="https://github.com/user-attachments/assets/8738dda6-57d3-4428-9abd-e40948e6f9b8" />
+Exp 6.2
+<img width="1293" height="915" alt="image" src="https://github.com/user-attachments/assets/2a907c82-9fbe-474b-8d83-0dc7654e4f16" />
+
 
