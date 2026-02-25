@@ -12,5 +12,6 @@ Exp 3(b)
 <img width="1907" height="801" alt="Screenshot 2026-01-28 121257" src="https://github.com/user-attachments/assets/e0d5960c-caa0-42ff-a222-b70abb7d83ec" />
 Exp 3(c)
 <img width="1374" height="823" alt="Screenshot 2026-01-28 120951" src="https://github.com/user-attachments/assets/3f815bdb-bf2b-4cb0-a97f-5d369f3ba0cf" />
-
+Exp 5
+![WhatsApp Image 2026-02-25 at 11 33 12 AM](https://github.com/user-attachments/assets/b528eb4d-421b-4d29-8d0f-eee147aadc2b)
 
