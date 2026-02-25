@@ -16,3 +16,5 @@ Exp 5
 ![WhatsApp Image 2026-02-25 at 11 33 12 AM](https://github.com/user-attachments/assets/b528eb4d-421b-4d29-8d0f-eee147aadc2b)
 Exp 6.1
 <img width="1076" height="902" alt="image" src="https://github.com/user-attachments/assets/556cf2e7-ae66-40cd-9bb5-0efa9ea5eeb1" />
+<img width="847" height="912" alt="image" src="https://github.com/user-attachments/assets/8738dda6-57d3-4428-9abd-e40948e6f9b8" />
+
